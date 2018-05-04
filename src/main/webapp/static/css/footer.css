@@ -1,0 +1,11 @@
+.footer {
+    width: 100%;
+    background-image: url("/static/images/background-dark-blue-texture-1.jpg");
+    border: none;
+    color:#fff;
+    height: 50px;
+    position: fixed;
+    left: 0;
+    /*bottom: 0;*/
+    text-align: center;
+}
